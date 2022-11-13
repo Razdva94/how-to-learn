@@ -1,0 +1,8 @@
+.footer__column_content_info {
+  flex-direction: column;
+  width: fit-content;
+  display: flex;
+  padding-bottom: 0;
+  height: 100%;
+  margin: auto;
+}
